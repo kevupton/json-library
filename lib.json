@@ -1,5 +1,6 @@
 {
   "test-component": {
+    "id": "test-component",
     "url": "https://gist.githubusercontent.com/kevupton/42415afa1378f098db74cd5dd4c35544/raw/9a09a6547dc6e67b094ba9ae0ab59560baa1c781/test.vue"
   }
 }
